@@ -1,0 +1,12 @@
+	.bottomBorderStyle{
+		border-top:0;
+		border-right:0;
+		border-right:2px;
+                border-left:0;"
+	}
+        .noBorderStyle{
+		border-top:0;
+		border-right:0;
+		border-right:0px;
+        border-left:0;"
+	}
